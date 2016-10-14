@@ -4,7 +4,6 @@
 #import statements
 import math
 
-
 def dollars2cents(dollars):
     cents = dollars * 100
 	return cents
@@ -22,5 +21,10 @@ def gallons2liters(gallons):
 def feet2inches(feet):
 	inches = feet * 12
 	return inches
+
+def deg2rad(deg)
+	return deg*math.pi/180
+=======
 def degrees2radians(degrees):
 	radians = degrees / 180 * math.pi
+
