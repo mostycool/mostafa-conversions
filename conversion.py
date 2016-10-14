@@ -9,8 +9,13 @@ def dollars2cents(dollars):
 def hours2minutes(hours)
 	minutes = hours * 60
 	return minutes
+
 #a function for converting gallons to liters
 def gallons2liters(gallons):
 	liters=gallons * 3.78541
 	return liters
 
+
+def feet2inches(feet)
+	inches = feet * 12
+	return inches
