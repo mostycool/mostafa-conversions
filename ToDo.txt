@@ -2,10 +2,10 @@
 Conversions functions needed:
 
 -Dollars to Cents...done!
--Gallons to Liters
+-Gallons to Liters  ..done!
 -Hours to Minutes...done!
 -Feet to Inches...done!
--Degrees to Radians
+-Degrees to Radians..done!
 
 #there is going to be some implementation of the code. 
 Implemention
