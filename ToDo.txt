@@ -4,7 +4,7 @@ Conversions functions needed:
 -Dollars to Cents...done!
 -Gallons to Liters
 -Hours to Minutes...done!
--Feet to Rnches
+-Feet to Inches...done!
 -Degrees to Radians
 
 #there is going to be some implementation of the code. 

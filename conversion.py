@@ -8,3 +8,7 @@ def dollars2cents(dollars):
 def hours2minutes(hours)
 	minutes = hours * 60
 	return minutes
+	
+def feet2inches(feet)
+	inches = feet * 12
+	return inches
