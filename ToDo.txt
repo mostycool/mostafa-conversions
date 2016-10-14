@@ -1,9 +1,9 @@
 
 Conversions functions needed:
 
--Dollars to Cents
+-Dollars to Cents...done!
 -Gallons to Liters
--Hours to Minutes
+-Hours to Minutes...done!
 -Feet to Rnches
 -Degrees to Radians
 
