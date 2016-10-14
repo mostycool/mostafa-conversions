@@ -1,6 +1,7 @@
 #Code started on 14OCT2016 MRL
 #going to do some implementation of the code. 
 
+#import statements
 import math
 
 def dollars2cents(dollars):
@@ -17,9 +18,13 @@ def gallons2liters(gallons):
 	return liters
 
 
-def feet2inches(feet)
+def feet2inches(feet):
 	inches = feet * 12
 	return inches
 
 def deg2rad(deg)
 	return deg*math.pi/180
+=======
+def degrees2radians(degrees):
+	radians = degrees / 180 * math.pi
+
