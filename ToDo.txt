@@ -1,3 +1,4 @@
+
 Conversions functions needed:
 
 -Dollars to Cents
@@ -5,3 +6,9 @@ Conversions functions needed:
 -Hours to Minutes
 -Feet to Rnches
 -Degrees to Radians
+
+#there is going to be some implementation of the code. 
+Implemention
+
+Probably better to write different functions for each conversion,
+instead of handling all conversions in a single function
